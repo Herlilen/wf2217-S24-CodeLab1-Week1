@@ -1,5 +1,7 @@
-# FILL IN INFO ABOUT YOUR GAME HERE. 
+# Bowling Cube 
 
-DO NOT LEAVE IT LIKE THIS!!!
+WASD to control the cube.
 
-Please? Please, give me content. I'm begging you. It's not that hard. Thanks.
+Use the cube to smash the ball, and use the ball to smash the cylinders.
+
+The game restarts when after hit with the ball.
